@@ -1,8 +1,7 @@
-# phone-pay-php
+# Master Gst 
 
-# Laravel Sample Repo: [Click Here](https://github.com/shibanashiqc/phone-pay-test)
 
-Unofficial Laravel Package for [MASTER GST](https://developer.phonepe.com/v1/docs/api-integration).
+Unofficial Laravel Package for [MASTER GST E INVOICE / EWAY BILL API ](https://mastergst.com).
 
 
 
@@ -19,9 +18,7 @@ composer require rashadpoovannur/mastergst
 ```
 
 
-## Documentation
 
-Documentation of PhonePe's API and their usage is available at <https://developer.phonepe.com/v1/docs/api-integration>
 
 ## Basic Usage
 
